@@ -1,0 +1,2 @@
+CREATE USER db_owner WITH PASSWORD 'db_owner' CREATEDB;
+CREATE USER db_user WITH PASSWORD 'db_user';

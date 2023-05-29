@@ -1,0 +1,6 @@
+\c pg_demo_db;
+
+CREATE TABLE DEMO_TABLE(
+    col1 VARCHAR PRIMARY KEY,
+    col2 VARCHAR NOT NULL
+);

@@ -1,0 +1,4 @@
+CREATE DATABASE pg_demo_db
+    WITH
+    ENCODING = 'UTF8'
+    CONNECTION LIMIT = -1;
